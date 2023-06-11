@@ -1,0 +1,144 @@
+id,condition,height,weight,agent,onset(hrs),age,diarreah,stomachpain,vomiting,nausea,bodypain,fever,headache,skinrashes,acidity,stoolcolor,output
+1,humid,5.7,50,meat,3,22,yes,yes,yes,no,yes,yes,no,no,yes,green,yes
+2,humid,6.2,55,milk,5,28,yes,no,yes,yes,yes,yes,no,no,yes,green,yes
+3,rainy,4.3,45,egg,34,19,no,yes,yes,no,yes,yes,yes,yes,no,red,no
+4,humid ,4.7,46,milk,67,14,yes,yes,no,yes,no,no,yes,yes,yes,red,yes
+5,cool,6.1,80,paneer,34,40,no,no,no,yes,no,no,no,yes,yes,yellow,no
+6,cool,5.6,84,rice,12,36,no,yes,yes,no,yes,no,no,no,no,yellow,no
+7,rainy,4.3,93,vegetables,45,45,yes,yes,no,yes,yes,yes,yes,yes,no,green,yes
+8,humid,3.7,35,curry,23,15,yes,no,yes,no,yes,yes,no,no,yes,red,no
+9,rainy,4.1,65,vegetables,56,67,no,no,no,no,no,no,yes,yes,no,green,no
+10,rainy,3.4,24,milk,32,8,no,no,yes,yes,yes,no,no,yes,yes,yellow,no
+11,humid,4.5,42,juice,54,16,yes,yes,yes,no,yes,yes,yes,yes,no,red,yes
+12,cool,6.4,66,juice,12,56,no,yes,no,yes,yes,no,no,no,yes,green,no
+13,cool,5.3,88,milk,64,58,yes,no,no,yes,no,yes,yes,yes,yes,red,yes
+14,cool,3.5,28,meat,35,17,no,yes,no,yes,no,no,yes,yes,yes,green,no
+15,humid,4.5,34,rice,63,14,yes,no,yes,yes,yes,yes,no,yes,no,green,yes
+16,rainy,6.1,69,vegetables,2,61,yes,yes,no,no,no,no,no,no,no,yellow,no
+17,cool,7,87,curry,23,73,yes,yes,yes,no,yes,yes,yes,no,yes,green,yes
+18,humid,4.5,25,egg,13,10,no,no,no,yes,yes,yes,yes,no,no,yellow,no
+19,rainy,3.2,57,paneer,5,9,no,yes,no,yes,no,yes,yes,no,no,red,no
+20,rainy,5.6,45,egg,8,27,yes,yes,yes,no,no,no,yes,no,yes,yellow,yes
+1,humid,5.2,48,spicy food,20,18,yes,yes,yes,yes,yes, no,yes,yes,yes,black,yes
+2,humid,5.7,50,sugar substitutes,24,33,yes,no,yes,no,no,yes,no,no,no,green,yes
+3,humid,6,70,fat food,28,39,yes,yes,yes,yes,yes,no,no,no,no,red,no
+4,cool,4.5,33,Raw milk,19,17,yes,no,yes,yes,no,no,yes,yes,no,red,yes
+5,cool,5.3,43,cheese,35,31,yes,no,no,no,yes,yes,yes,yes,yes,yellow,no
+6,rainy,4.7,36,poultry,56,16,no,yes,no,no,yes,no,no,no,yes,yellow,no
+7,rainy,4.8,38,seafood,34,13,yes,yes,no,yes,no,yes,yes,yes,yes,red,no
+8,cool,5.5,47,fruit,1,39,no,no,yes,no,no,yes,no,no,yes,yellow,yes
+9,humid,5.7,63,vegetables,4,44,no,yes,yes,no,no,yes,no,no,no,yellow,yes
+10,cool,5.9,65,Raw eggs,59,18,yes,no,no,yes,yes,no,yes,yes,no,green,no
+11,cool,6.2,71,raw shellfish,47,38,yes,yes,no,yes,no,no,yes,yes,no,green,no
+12,rainy,3.8,28,Raw flour,38,56,yes,no,yes,no,yes,yes,yes,no,yes,red,yes
+13,rainy,4.4,48,spicy food,12,61,no,yes,no,yes,no,no,no,yes,no,red,yes
+14,humid,4.7,35,fat food,47,48,no,no,no,no,yes,yes,yes,yes,yes,yellow,yes
+15,humid,4.3,39,milk,21,42,no,yes,yes,yes,no,no,no,no,no,green,no
+16,cool,6.4,67,eggs,19,51,yes,no,no,no,yes,yes,yes,yes,yes,green,no
+17,rainy,5.7,48,sugar substitutes,32,25,no,yes,yes,yes,no,no,no,no,yes,black,yes
+18,rainy,6.1,57,cheese,16,15,yes,no,no,no,yes,yes,yes,yes,no,black,yes
+19,humid,5.6,69,poultry,22,19,no,no,yes,no,no,yes,no,no,yes,black,yes
+20,cool,5.8,74,seafood,51,43,yes,no,no,no,yes,yes,yes,yes,no,yellow,no
+1,humid,5.5,56,fish,22,32,yes,no,yes,yes,yes,no,no,no,no,green,yes
+2,windy,5.3,45,milk,13,24,yes,no,no,no,no,yes,yes,no,no,red,no
+3,humid,4.6,43,sweets,35,25,yes,yes,yes,no,yes,no,yes,yes,no,green,no
+4,cold,5.8,54,canned food,56,60,no,yes,yes,no,no,yes,yes,yes,yes,black,yes
+5,cloudy,4.7,33,raw flour,43,55,yes,yes,no,no,no,no,yes,no,yes,white,yes
+6,cloudy,6,23,vegetables,33,15,no,no,yes,yes,no,yes,no,yes,no,yellow,no
+7,cold,6.4,64,seafood,54,34,no,yes,yes,no,no,no,yes,no,no,yellow,yes
+8,sunny,5.5,64,beef,24,33,yes,no,no,yes,yes,yes,no,yes,no,green,yes
+9,sunny,4.4,44,cheese,13,5,no,yes,no,no,yes,no,no,no,yes,white,no
+10,cold,5.8,66,curd,31,44,no,yes,no,yes,no,yes,yes,yes,no,red,yes
+11,sunny,5.9,45,cheese,42,51,no,yes,no,no,no,no,no,no,no,green,yes
+12,cloudy,5.1,56,curd,53,24,no,no,no,yes,yes,yes,no,yes,no,green,no
+13,cold,5,38,sweets,44,15,no,no,no,no,no,no,no,no,yes,yellow,yes
+14,rainy,4.9,58,canned food,22,27,yes,yes,yes,no,no,yes,yes,yes,no,black,no
+15,windy,4.7,59,raw flour,14,7,no,yes,no,yes,yes,yes,yes,yes,no,yellow,no
+16,windy,6.2,53,vegetables,35,29,yes,no,yes,yes,no,yes,no,no,no,red,no
+17,sunny,5.3,39,seafood,49,19,no,no,yes,no,no,no,yes,yes,no,black,no
+18,cloudy,5.3,57,beef,14,8,no,yes,no,yes,yes,yes,yes,yes,no,black,yes
+19,windy,5.6,47,cheese,21,71,no,no,yes,yes,yes,no,no,no,no,black,yes
+20,rainy,4.9,38,curd,33,19,yes,yes,yes,no,yes,yes,yes,no,no,green,yes
+21,rainy,5.8,63,sweets,39,6,yes,no,no,no,no,no,yes,yes,no,white,yes
+22,humid,5.5,51,canned food,65,16,no,no,yes,no,no,yes,no,yes,yes,red,no
+23,rainy,5.3,62,fruits,26,49,no,yes,no,no,no,no,yes,yes,no,yellow,no
+24,rainy,4.6,43,curry,41,61,no,yes,no,yes,yes,yes,no,no,yes,yellow,no
+25,sunny,5.8,37,spicy food,26,17,no,no,yes,no,no,yes,no,no,no,green,yes
+26,cold,4.7,74,seafood,26,37,no,yes,no,yes,no,yes,yes,yes,no,black,no
+27,sunny,6,71,beef,35,37,yes,yes,no,no,no,yes,no,no,no,red,no
+28,humid,6.4,66,cheese,36,13,no,yes,yes,yes,no,yes,no,yes,no,green,yes
+29,sunny,5.4,62,canned food,18,15,no,yes,yes,no,yes,yes,yes,no,no,yellow,no
+30,cold,5,57,raw flour,85,12,yes,no,yes,yes,yes,yes,yes,yes,yes,yellow,no
+31,sunny,6,71,vegetables,17,5,no,yes,yes,no,no,yes,no,no,no,yellow,no
+32,humid,5.7,74,pickled food,39,24,no,yes,no,no,yes,yes,yes,yes,yes,green,yes
+33,cold,4.3,53,fried food,65,16,no,no,yes,no,yes,yes,yes,yes,no,red,no
+34,cold,5.6,45,fish,36,44,no,no,no,yes,yes,no,no,no,yes,black,no
+35,cold,5.3,56,milk,18,21,yes,yes,no,yes,yes,no,yes,yes,no,white,no
+36,humid,5.5,38,chicken,85,31,no,yes,no,no,no,no,yes,yes,yes,green,yes
+37,humid,4.4,58,fried food,26,57,no,no,yes,no,no,no,no,no,yes,red,no
+38,cloudy,5.8,59,eggs,35,32,yes,yes,no,no,no,yes,yes,no,no,green,yes
+39,sunny,5.9,53,fruits,23,53,no,yes,no,yes,yes,yes,no,yes,yes,red,yes
+40,cloudy,5.1,45,milk,16,47,no,yes,yes,no,yes,yes,no,no,no,yellow,no
+41,cloudy,5,43,chicken,9,27,yes,no,yes,no,yes,no,no,no,no,yellow,no
+42,rainy,4.9,54,fried food,23,23,yes,no,no,yes,no,yes,no,yes,no,black,no
+43,rainy,4.8,33,eggs,44,22,no,yes,yes,no,yes,yes,yes,no,no,black,no
+44,rainy,5.4,23,fruits,41,26,yes,yes,yes,no,yes,yes,yes,yes,yes,white,yes
+45,rainy,5.7,64,curry,30,29,yes,yes,no,yes,no,no,yes,no,yes,black,no
+46,rainy,4.8,64,spicy food,6,5,no,no,yes,no,yes,no,yes,no,no,yellow,no
+47,sunny,5.9,42,seafood,14,26,yes,no,yes,yes,yes,no,no,no,no,yellow,no
+48,humid,5.5,64,beef,44,3,no,no,no,yes,yes,no,no,no,no,yellow,no
+49,humid,5.3,53,cheese,44,27,yes,no,yes,no,no,yes,no,no,yes,red,no
+50,cold,4.6,66,canned food,14,10,no,yes,no,no,yes,yes,yes,no,no,yellow,yes
+51,rainy,5.8,45,raw flour,12,6,no,no,no,no,yes,yes,no,yes,yes,green,yes
+52,rainy,4.7,56,vegetables,10,16,yes,yes,no,no,yes,no,no,no,no,black,yes
+53,cold,6,38,pickled food,21,31,no,yes,no,yes,yes,no,yes,yes,yes,black,yes
+54,sunny,6.4,58,fried food,27,35,yes,yes,yes,yes,yes,no,no,no,no,red,no
+55,cold,5.6,59,fish,20,21,no,no,yes,no,no,no,no,no,yes,yellow,yes
+56,humid,,53,milk,17,32,no,yes,no,no,no,yes,no,no,no,red,no
+57,humid,5,74,curry,26,3,no,yes,yes,no,no,no,yes,no,yes,black,no
+58,sunny,4.9,53,eggs,19,32,yes,yes,no,yes,yes,yes,no,no,yes,red,no
+59,sunny,4.1,45,fruits,25,44,no,no,no,yes,no,yes,no,no,no,yellow,yes
+60,sunny,4.8,38,milk,20,36,no,no,yes,yes,no,yes,no,yes,yes,black,yes
+61,sunny,5.1,58,chicken,28,34,no,yes,no,yes,no,yes,no,no,yes,green,no
+62,cold,4.9,59,fried food,10,5,no,yes,no,yes,yes,no,no,no,no,black,no
+63,cold,5.5,53,eggs,21,5,no,no,yes,no,yes,no,yes,yes,yes,black,no
+64,cloudy,4.4,39,canned food,27,76,no,yes,yes,yes,no,yes,no,yes,yes,yellow,no
+65,cold,5.8,57,raw flour,41,54,no,no,yes,no,yes,no,no,yes,yes,yellow,yes
+66,cloudy,5.9,23,vegetables,30,34,yes,no,yes,no,yes,yes,no,yes,no,yellow,no
+67,cold,5.1,64,pickled food,6,61,no,yes,no,yes,yes,no,yes,no,no,yellow,no
+68,cold,5,64,fried food,14,52,no,yes,yes,no,no,yes,no,yes,yes,white,yes
+69,rainy,4.9,44,milk,44,45,no,no,no,yes,no,yes,yes,yes,yes,green,yes
+70,rainy,4.7,66,chicken,44,65,no,yes,no,yes,no,no,yes,yes,yes,yellow,yes
+71,cold,5.6,45,fried food,14,24,no,no,yes,yes,yes,no,no,no,no,white,yes
+72,windy,5.8,56,eggs,47,42,yes,yes,yes,no,yes,yes,no,yes,yes,green,no
+73,sunny,5.9,38,fruits,38,42,no,no,no,yes,yes,no,no,yes,yes,red,yes
+74,rainy,5.1,58,curry,7,67,no,yes,no,yes,yes,no,no,no,no,black,no
+75,windy,5,64,spicy food,41,14,no,yes,yes,yes,yes,no,no,yes,yes,white,no
+76,windy,4.7,64,seafood,26,25,yes,no,yes,yes,no,yes,yes,yes,yes,black,yes
+77,sunny,6.2,66,beef,26,72,no,no,yes,no,no,no,no,no,no,red,no
+78,cloudy,5.4,45,cheese,28,35,yes,yes,yes,no,yes,yes,no,yes,no,yellow,no
+79,windy,5.2,56,curd,65,85,no,no,no,yes,yes,no,no,no,yes,green,yes
+80,rainy,5.2,38,curry,26,62,no,no,yes,no,no,no,no,no,yes,red,no
+81,rainy,5.3,58,spicy food,41,73,no,yes,no,no,no,yes,yes,yes,no,yellow,no
+82,humid,4.6,59,seafood,26,70,no,no,no,no,no,no,yes,yes,no,ehite,no
+83,rainy,5.8,44,beef,20,13,yes,yes,no,yes,yes,yes,yes,no,yes,yellow,yes
+84,rainy,4.7,66,cheese,28,6,no,yes,yes,yes,no,yes,yes,no,no,yellow,no
+85,sunny,6,45,curd,65,9,no,no,yes,yes,no,yes,no,yes,yes,yellow,no
+86,sunny,6.4,53,sweets,26,11,yes,no,no,yes,no,yes,no,yes,no,green,yes
+87,rainy,5,66,fruits,41,10,no,yes,yes,yes,yes,no,no,no,no,yellow,yes
+88,windy,4.9,45,curry,26,20,yes,no,no,no,yes,no,yes,no,no,red,no
+89,windy,5.5,56,spicy food,26,25,yes,no,no,yes,no,yes,no,no,yes,white,yes
+90,humid,5.3,38,seafood,35,28,no,no,yes,no,yes,no,no,no,yes,red,no
+91,windy,4.6,58,beef,36,27,yes,no,no,yes,yes,yes,yes,yes,yes,black,no
+92,humid,5.8,66,cheese,18,38,no,no,no,yes,yes,no,no,no,yes,white,no
+93,cold,4.7,45,curd,85,47,yes,yes,yes,no,no,yes,yes,no,yes,black,yes
+94,cloudy,6,56,beef,17,48,no,yes,yes,no,no,no,no,yes,no,yellow,yes
+95,rainy,6.4,38,cheese,18,18,no,yes,yes,yes,yes,yes,yes,no,yes,green,yes
+96,cold,5.5,58,canned food,85,26,yes,yes,yes,no,yes,no,no,no,no,yellow,no
+97,cloudy,4.4,59,raw flour,17,28,yes,yes,no,no,yes,no,yes,yes,no,red,no
+98,sunny,5.8,64,vegetables,39,35,no,no,yes,no,no,no,no,no,no,white,no
+99,cold,5.9,44,pickled food,65,21,yes,no,no,yes,yes,no,yes,no,yes,green,no
+100,sunny,5.1,66,fried food,32,43,no,yes,no,yes,yes,yes,no,yes,yes,yellow,yes
+101,cold,5.8,23,curd,31,44,no,yes,no,yes,no,yes,yes,yes,no,red,yes
+102,windy,5.9,47,cheese,42,51,no,yes,no,no,no,no,no,no,no,green,no
+103,windy,5.1,40,curd,53,24,no,no,no,yes,yes,yes,no,yes,no,green,no
